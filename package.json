@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool",
-    "version": "0.1.6",
+    "version": "0.1.9",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
         "stratum",
@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
-        "bignum": "*",
+        "bignum": "0.12.5",
         "base58-native": "*",
         "async": "*"
     },
